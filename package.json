@@ -4,7 +4,8 @@
   "description": "A util that splits a given array in chunks.",
   "main": "src/index.ts",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint src/*"
   },
   "repository": {
     "type": "git",
