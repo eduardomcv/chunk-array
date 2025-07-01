@@ -1,4 +1,4 @@
-Splits a given array in chunks (sub-arrays).
+Splits a given array in smaller chunks (sub-arrays).
 
 ### Usage
 
